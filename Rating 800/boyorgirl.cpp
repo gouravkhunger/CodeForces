@@ -1,6 +1,7 @@
 // https://codeforces.com/problemset/problem/236/A
 // 236 A. Boy or Girl
 // 16-Oct-2020
+// Author: Gourav(https://github.com/GouravKhunger)
 
 #include <bits/stdc++.h>
 using namespace std;

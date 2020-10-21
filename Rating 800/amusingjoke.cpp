@@ -1,6 +1,7 @@
 // https://codeforces.com/problemset/problem/141/A
 // 141 A. Amusing Joke
 // 16-Oct-2020
+// Author: Gourav(https://github.com/GouravKhunger)
 
 #include <bits/stdc++.h>
 using namespace std;

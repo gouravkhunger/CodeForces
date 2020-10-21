@@ -1,13 +1,14 @@
-//https://codeforces.com/contest/1328/problem/A
-//1328 A. Divisibility Problem
-//19-Oct-2020
+// https://codeforces.com/contest/1328/problem/A
+// 1328 A. Divisibility Problem
+// 19-Oct-2020
+// Author: Sreejith K Pai(https://github.com/sk-pai)
 
 #include <iostream>
 using namespace std;
 
 main(){
 
-int t,i,a,b;
+int t,a,b;
 
     cin>>t;
     while(t--){

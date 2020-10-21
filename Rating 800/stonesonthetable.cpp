@@ -1,6 +1,7 @@
 // https://codeforces.com/problemset/problem/266/A
 // 266 A. Stones on the Table
 // 17-Oct-2020
+// Author: Gourav(https://github.com/GouravKhunger)
 
 #include <bits/stdc++.h>
 using namespace std;

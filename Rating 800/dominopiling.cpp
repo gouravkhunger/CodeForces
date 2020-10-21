@@ -1,6 +1,7 @@
 // https://codeforces.com/problemset/problem/50/A
 // 50 A. Domino Pilinge
 // 16-Oct-2020
+// Author: Gourav(https://github.com/GouravKhunger)
 
 #include <iostream>
 using namespace std;

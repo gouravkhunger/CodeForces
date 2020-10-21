@@ -1,6 +1,7 @@
 // https://codeforces.com/problemset/problem/281/A
 // 281 A. Word Capitalization
 // 16-Oct-2020
+// Author: Gourav(https://github.com/GouravKhunger)
 
 #include <iostream>
 using namespace std;

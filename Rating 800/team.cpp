@@ -1,6 +1,7 @@
 // https://codeforces.com/problemset/problem/231/A
 // 231A. Team
 // 15-Oct-2020
+// Author: Gourav(https://github.com/GouravKhunger)
 
 #include <iostream>
 using namespace std;

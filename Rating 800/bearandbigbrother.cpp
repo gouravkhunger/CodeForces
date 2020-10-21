@@ -1,6 +1,7 @@
 // https://codeforces.com/problemset/problem/791/A
 // 791 A. Bear and Big Brother
 // 18-Oct-2020
+// Author: Gourav(https://github.com/GouravKhunger)
 
 #include <bits/stdc++.h>
 using namespace std;

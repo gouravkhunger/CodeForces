@@ -1,6 +1,7 @@
 //https://codeforces.com/problemset/problem/4/A
 // 4A. Watermelon
 // 15-Oct-2020
+// Author: Gourav(https://github.com/GouravKhunger)
 
 #include <iostream>
 using namespace std;

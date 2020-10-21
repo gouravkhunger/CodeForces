@@ -1,6 +1,7 @@
 // https://codeforces.com/problemset/problem/1399/A
 // 1399 A. Remove Smallest
 // 17-Oct-2020
+// Author: Gourav(https://github.com/GouravKhunger)
 
 #include <bits/stdc++.h>
 using namespace std;

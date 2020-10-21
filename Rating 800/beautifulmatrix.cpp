@@ -1,6 +1,7 @@
 // https://codeforces.com/problemset/problem/263/A
 // 263 A. Beautiful Matrix
 // 16-Oct-2020
+// Author: Gourav(https://github.com/GouravKhunger)
 
 #include <iostream>
 using namespace std;

@@ -1,6 +1,7 @@
 // https://codeforces.com/problemset/problem/282/A
 // 282 A. Bit++
 // 15-Oct-2020
+// Author: Gourav(https://github.com/GouravKhunger)
 
 #include <iostream>
 using namespace std;

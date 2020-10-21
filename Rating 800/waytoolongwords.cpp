@@ -1,6 +1,7 @@
 // https://codeforces.com/problemset/problem/71/A
 // 71A. Way Too Long Words
 // 15-Oct-2020
+// Author: Gourav(https://github.com/GouravKhunger)
 
 #include <iostream>
 using namespace std;

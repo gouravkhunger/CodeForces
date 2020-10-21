@@ -1,6 +1,7 @@
 // https://codeforces.com/problemset/problem/723/A
 // 723 A. The New Year: Meeting Friends
 // 17-Oct-2020
+// Author: Gourav(https://github.com/GouravKhunger)
 
 #include <bits/stdc++.h>
 using namespace std;

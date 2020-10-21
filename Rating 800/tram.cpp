@@ -1,6 +1,7 @@
 // https://codeforces.com/problemset/problem/116/A
 // 116 A. Tram
 // 18-Oct-2020
+// Author: Gourav(https://github.com/GouravKhunger)
 
 #include <bits/stdc++.h>
 using namespace std;
