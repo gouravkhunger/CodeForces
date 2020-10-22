@@ -1,4 +1,4 @@
-# CodeForces
+# CodeForces Problem Solutions
 Solutions to various CodeForces Problems.
 
 The solved codes are placed in folders which correspond to their ratings on CodeForces.

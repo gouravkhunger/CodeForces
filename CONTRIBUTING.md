@@ -1,11 +1,11 @@
 This file includes the conventions you should follow while
-submitting a PR to this repository.
+submitting a Pull Request to this repository.
 
 # Contribution Guidelines
 
 ## Prerequisites
 Be sure that your solutions is working and accepted in the official
-[CodeForces](https://codeforces.com) website. While submitting a PR,
+[CodeForces](https://codeforces.com) website. While submitting a Pull Request,
 providing a screenshot of the Accepted tag from CodeForces will boost the
 merging process.
 
@@ -61,5 +61,5 @@ For better understanding, please look into other files existing in the repositor
 
 ## Final Words
 I thank you all who have contributed to this repository. I hope that this repository
-will be beneficial to all who need help in the problems. But please use this repsitory
+will be beneficial to all who need help in the problems. But please use this repository
 wisely.
