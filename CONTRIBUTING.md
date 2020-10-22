@@ -29,13 +29,19 @@ Multiple solutions, which implement different algorithms to solve the problem, a
 The naming convention of the solution file is almost the same as mentioned above.
 The only change required is to add `-Solution<number>` at the end of the name.
 
+But, if the previous solution is in another programming language than yours, you
+need not to add `-Solution<number>` at the end, just keep the same name as the previous one
+and check that the extension should be different.
+
+On the other hand, if the solution already exists and your solution is also in the same language as yours then follow the below process:
+
 First, check the repository if a previous solution to the same problem exists of not, if it exists,
 then rename that file to `<previous-name>-Solution1` and rename your file to `<previous-name>-Solution2`
 and add a Pull Request.
 
 Sorry for any inconvenience caused.
 
-## Internal Comments
+## Comments
 To keep records of the files, I request you to add comments in the begining of your solution.
 These 4 lines of comments are necessary:
 
