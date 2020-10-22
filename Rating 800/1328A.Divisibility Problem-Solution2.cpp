@@ -3,7 +3,7 @@
 // File Creation Date: 21-Oct-2020
 // Author: Gourav Khunger(https://github.com/GouravKhunger)
 
-// This is the for-loop inout implementation of the first solution of this problem.
+// This is the for-loop implementation of the first solution of this problem.
 // Logic of solving it is same, but it is another way the problem can be approached.
 // Logic credits: Sreejith K Pai(https://github.com/sk-pai)
 
