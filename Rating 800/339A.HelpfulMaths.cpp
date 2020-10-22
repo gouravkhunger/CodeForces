@@ -1,6 +1,6 @@
 // https://codeforces.com/problemset/problem/339/A
 // 339 A. Helpful Maths
-// 16-Oct-2020
+// File Creation Date: 16-Oct-2020
 // Author: Gourav(https://github.com/GouravKhunger)
 
 #include <bits/stdc++.h>

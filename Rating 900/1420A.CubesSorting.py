@@ -1,7 +1,7 @@
 '''
     https://codeforces.com/problemset/problem/1420/A
     1420 A. Cubes Sorting
-    22-Oct-2020
+    File Creation Date: 22-Oct-2020
     Author: Winston(https://github.com/WinstonPais)
 '''
 for _ in range(int(input())):

@@ -1,6 +1,6 @@
 // https://codeforces.com/problemset/problem/266/B
 // 266 B. Queue at the School
-// 17-Oct-2020
+// File Creation Date: File Creation Date: 17-Oct-2020
 // Author: Gourav(https://github.com/GouravKhunger)
 
 #include <bits/stdc++.h>

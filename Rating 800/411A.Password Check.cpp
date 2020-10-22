@@ -1,6 +1,6 @@
 // https://codeforces.com/contest/411/problem/A
 // 411 A. Password Check
-// 18-Oct-2020
+// File Creation Date: 18-Oct-2020
 // Author: Gourav(https://github.com/GouravKhunger)
 
 #include <bits/stdc++.h>

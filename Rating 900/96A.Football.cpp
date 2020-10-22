@@ -1,7 +1,7 @@
 // https://codeforces.com/problemset/problem/96/A
 // 96 A. Football
-// 19-Oct-2020
-//  Author: Gourav(https://github.com/GouravKhunger)
+// File Creation Date: 19-Oct-2020
+// Author: Gourav(https://github.com/GouravKhunger)
 
 #include <bits/stdc++.h>
 using namespace std;

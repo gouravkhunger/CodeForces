@@ -1,6 +1,6 @@
 // https://codeforces.com/problemset/problem/617/A
 // 617 A. Elephant
-// 18-Oct-2020
+// File Creation Date: 18-Oct-2020
 // Author: Gourav(https://github.com/GouravKhunger)
 
 #include <bits/stdc++.h>

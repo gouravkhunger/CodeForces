@@ -1,6 +1,6 @@
 // https://codeforces.com/contest/1328/problem/A
 // 1328 A. Divisibility Problem
-// 19-Oct-2020
+// File Creation Date: 19-Oct-2020
 // Author: Sreejith K Pai(https://github.com/sk-pai)
 
 #include <iostream>

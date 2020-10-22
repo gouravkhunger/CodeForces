@@ -1,6 +1,6 @@
 // https://codeforces.com/problemset/problem/996/A
 // 996 A. Hit the Lottery
-// 17-Oct-2020
+// File Creation Date: 17-Oct-2020
 // Author: Gourav(https://github.com/GouravKhunger)
 
 #include <bits/stdc++.h>

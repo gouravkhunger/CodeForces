@@ -1,6 +1,6 @@
 // https://codeforces.com/contest/1328/problem/A
 // 1328 A. Divisibility Problem
-// 21-Oct-2020
+// File Creation Date: 21-Oct-2020
 // Author: Gourav Khunger(https://github.com/GouravKhunger)
 
 // This is the for-loop inout implementation of the first solution of this problem.

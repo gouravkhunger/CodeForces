@@ -1,6 +1,6 @@
 // https://codeforces.com/problemset/problem/546/A
 // 546 A. Soldiers and Bananas
-// 17-Oct-2020
+// File Creation Date: 17-Oct-2020
 // Author: Gourav(https://github.com/GouravKhunger)
 
 #include <bits/stdc++.h>

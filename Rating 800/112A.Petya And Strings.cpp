@@ -1,6 +1,6 @@
 // https://codeforces.com/problemset/problem/112/A
 // 112 A. Petya and Strings
-// 16-Oct-2020
+// File Creation Date: 16-Oct-2020
 // Author: Gourav(https://github.com/GouravKhunger)
 
 #include <iostream>

@@ -1,7 +1,7 @@
 '''
     https://codeforces.com/contest/1367/problem/A
     1367 A. Short Substrings
-    21-Oct-2020
+    File Creation Date: 21-Oct-2020
     Author: Winston(https://github.com/WinstonPais)
 '''
 

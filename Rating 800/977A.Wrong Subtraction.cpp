@@ -1,6 +1,6 @@
 // https://codeforces.com/problemset/problem/977/A
 // 977 A. Wrong Subtraction
-// 18-0ct-2020
+// File Creation Date: 18-0ct-2020
 // Author: Gourav(https://github.com/GouravKhunger)
 
 #include <bits/stdc++.h>
