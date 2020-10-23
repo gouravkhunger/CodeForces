@@ -17,10 +17,10 @@ on CodeForces. Be sure to add the solution in it's specific rated category only.
 The name of the file must start with the contest number and the problem's
 alphabetic code. Next, the name of the problem should be mentioned preceded by a `.`.
 Each word of the file should start with capital letter and other should be small.
-Each word's shall have a space between them.
+Each word __should not__ have a space between them.
 
 For example: [This problem](https://codeforces.com/problemset/problem/158/A)'s
-solution file will be named: `158A.Next Round.<file-extension>`.
+solution file will be named: `158A.NextRound.<file-extension>`.
 
 __**Be sure that you follow the naming convention as mentioned.**__
 
