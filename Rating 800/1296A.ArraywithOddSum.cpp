@@ -1,4 +1,4 @@
-// https://codeforces.com/problemset/problem/996/A
+// https://codeforces.com/problemset/problem/1296/A
 // 1296 A. Array with Odd Sum
 // File Creation Date: 31-Oct-2020
 // Author: Gourav(https://github.com/GouravKhunger)
