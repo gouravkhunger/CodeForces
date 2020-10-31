@@ -1,7 +1,7 @@
 // https://codeforces.com/problemset/problem/1296/A
 // 1296 A. Array with Odd Sum
 // File Creation Date: 31-Oct-2020
-// Author: Gourav(https://github.com/GouravKhunger)
+// Author: Saurabh(https://github.com/saurabh786iit)
 
 #include<iostream>
 #include<vector>
